@@ -1,0 +1,6 @@
+{
+  "name": "Mark. F.",
+  "description": "AI video cleanup and watermark removal studio for creators. Remove unwanted logos, timestamps, text, and clutter from personal footage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
